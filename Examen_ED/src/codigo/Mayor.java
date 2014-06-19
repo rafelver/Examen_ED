@@ -3,6 +3,7 @@ package codigo;
 /*
  * Clase que nos devuelve el número mayor entre dos números
  * */
+//
 public class Mayor {
 	//Inicialización
 	private int a;
